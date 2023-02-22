@@ -1,0 +1,1 @@
+Finding appropriate learning materials that appeal to all of the kid's diverse interests appears chaotic, and there is a lack of review of those that are already available. Therefore, to choose appropriate courses I have recommendation system using ML algorithms
